@@ -1,6 +1,34 @@
 {
   "fonts": [
     {
+      "unpatchedName": "Jost",
+      "licenseId": "OFL-1.1-no-RFN",
+      "RFN": false,
+      "version": "2.201",
+      "patchedName": "Jost",
+      "folderName": "Jost",
+      "imagePreviewFont": "Jost Nerd Font",
+      "imagePreviewFontSource": "Jost/Jost-VariableFont_wght.ttf",
+      "linkPreviewFont": "jost",
+      "caskName": "jost",
+      "repoRelease": true,
+      "description": "sikkimsokim"
+    },
+    {
+      "unpatchedName": "JostIT",
+      "licenseId": "OFL-1.1-no-RFN",
+      "RFN": false,
+      "version": "2.201",
+      "patchedName": "JostIT",
+      "folderName": "JostIT",
+      "imagePreviewFont": "JostIT Nerd Font",
+      "imagePreviewFontSource": "Jost/Jost-Italic-VariableFont_wght.ttf",
+      "linkPreviewFont": "jostIT",
+      "caskName": "jostIT",
+      "repoRelease": false,
+      "description": "sikkimsokim2"
+    },
+    {
       "unpatchedName": "0xProto",
       "licenseId": "OFL-1.1-no-RFN",
       "RFN": false,
