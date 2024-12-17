@@ -25,7 +25,7 @@ jobs:
   setup-fonts-matrix:
     runs-on: ubuntu-latest
     # If you have a fork and want to run the release workflow, adapt this line:
-    if: ${{ github.repository_owner == 'ryanoasis' }}
+    if: ${{ github.repository_owner == 'makrofaj67' }}
 
     steps:
       - name: Fetch information
